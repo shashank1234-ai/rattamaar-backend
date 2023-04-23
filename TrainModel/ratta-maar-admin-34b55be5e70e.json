@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ratta-maar-admin",
+  "private_key_id": "34b55be5e70eb043cbfb73b331df1f8f7baea593",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDm22deEf9pjhES\nfntvr54nRqCYTnRjlgsA1ojsZWRnDVBFap2DAcnyZ2US+bBMFdcaXFJw8Ek6OLNS\nhyg5Qkve8+AmXJUd9Xc2ou/2VftK5s2bjgctKk0UUIhiSn1POEJXsZY2DyBoj+Nx\nLyBIC7r7YhRavHJqs9bZXnA8zAr15NsadZZ5rfgdKhs3aYm4/+mvuGZNLfbVT2ov\n5NBGQ/zYBN4x59dh2wLLgAYHzwDXRapVzhNvPDJ1TtJYdQEoPzLQyZ/x8D4PuzTI\n7QN8rc2HtLgo8yWy1sIjQd8FwnKqHTVdgc+bmLQvaywEK5oRuOFVjP8WZMQICXh0\nBCZUCnXLAgMBAAECggEACwLwHUaSfkBuhAlQbfVcf9cYles4Ff/0KmgRQ+VaMqgp\n6gW52aPeNBfGdG9Af4CTMAizTfvIImTN+OPFgWWuJMZRLMNBwZoRw6Nl+sQDJoF3\n0TGnGfpojs2Ak9+ltn+ienhYB+AU1af3W1C6I3Wbx53YBrPyaTCG0Pt2MxAwfaYD\nsBh2jfcf4Fgbm2c5TVxOFGFT0OmLkJk6tAynYht0YqtViBLN6MqQ7O+lmTGrbwnG\nEYwfoSwCTzUP4EMopj21jXTU4gipzgjpwN1xL3pNcvtmu1eJ8cMyx+BVIVIk9PVP\nFXO2MHE+ZINOG4n+VdkaueO6fDLimTVAsmOql/ijYQKBgQD8iIemeJgifYRwHUdP\naywoM8ceOPJ13ehKddU/Lx3kx1s4u0T/4AkCR+nEe3aASpQFY1Ve+weQmZkzkQYC\nzE8t/Y6lr6496vWfkRJtV+m7+lChYfVd3hKf5uRY189TMMvkIhxFkB/GwY6LM67b\ndDzjJPltNphXw4pl0XQIZ6XRcwKBgQDqBrKX2fdiCHj1VoDW1ktd2F4FO+vdKsRg\nUXQD19uxsA0MiMn9DC6QsBcc9GkoNcmhZkDrtUJE5B01hNnfSeQ+OBeSWLvfKkgj\nkVkGwQ+pmxRZDOgOJzi0vNjwA8B9Zc4euR7P+DEev8fGvnZd/lQlQOsAb9HDOyw0\nPaPazNhUSQKBgBlyeJjh1hLDqzDRAnqSRiTW8t2sx2HxNpMqRI7VZKHFJQAWfuF5\n5e6A6KGP/2T2HuxcEiI8EYsUr0du+bgWdnQf9NvlVB2RK6ckq0KxdTAoDS/1+w+2\nbRIH5kK9nHq5lBItDcREva79miuUza33jJsnAqtqsPdHEQ8piBPAvgjZAoGAMvTu\nYj4lrYTmwZTqTN0wX+jC4CTiALBVPhu+RS/1OEV7MeV/BchnQz30amuVkhnUI36e\nWDSJj3KUIZkhz4rJVfrktwr3LWqJdqUpW10iSe3oilNTG/HSWRhdrDVE7okCTpJE\ncUg7edSMbWv/XgwIymvOP7QZWodB4sYhLX05BXECgYAM4n9wmdCQrwpGf0i4mmOp\nHjvcAFHZUyB/aTd3p8Umd/kAW4ATc3fWr1Pog7mdPXGftviZl/YMCCem2lRx3kzx\nsiO4rfrMDaLjoEzCoRlJI5iy2+cuvQKZRbohXyrMpg4+L4l8ciHXJJ2V4Q3a6G4i\n51uBHtThn2hwC4rLHjNADw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-s5963@ratta-maar-admin.iam.gserviceaccount.com",
+  "client_id": "116617255275355640977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-s5963%40ratta-maar-admin.iam.gserviceaccount.com"
+}
